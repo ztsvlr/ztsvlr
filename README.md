@@ -8,6 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
+### Other Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev)
+
+
 ### What i'm learning now?
 
 Learning TS, C#, and doing some tools for a certain Anime Game 
