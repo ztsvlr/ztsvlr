@@ -1,4 +1,4 @@
-### Hello there, i'm Nathan, 19 years old and i'm currently living in Brazil! 👋
+I'm 19 years old and i'm currently living in Brazil! 👋
 
 ### Programming Languages
 
