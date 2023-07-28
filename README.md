@@ -2,7 +2,7 @@ Get out.
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,python,java,cpp,c,cs)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
