@@ -6,7 +6,7 @@ Get out.
 
 ### Tools and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### Other Skills
 
