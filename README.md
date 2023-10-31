@@ -22,8 +22,8 @@
 
 ### My GitHub
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzin&count_private=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzin&count_private=true&theme=dracula&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ndzin&theme=dracula&hide_border=true)](https://git.io/streak-stats)
