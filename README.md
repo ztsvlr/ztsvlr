@@ -16,4 +16,10 @@
 
  <a href="https://discord.com/users/ndzinvlr#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/ndzin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/819036262945783808)](https://discord.com/users/819036262945783808)
+
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ndzin&count_private=true&theme=dracula)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ndzin&theme=buefy-dark)](https://git.io/streak-stats)
