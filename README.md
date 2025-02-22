@@ -1,6 +1,6 @@
 ### About me
 
-Hi! My name is Nathan, aka ndzin, a Brazilian student currently at 20 years old, you can take a look at my skills down below.
+Hi! I'm zts, a Brazilian student currently at 21 years old, you can take a look at my skills down below.
 
 ### Programming Languages
 
