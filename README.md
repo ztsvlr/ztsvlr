@@ -20,7 +20,7 @@ Hi! I'm zts, a Brazilian student currently at 21 years old, you can take a look 
 
  ### Discord presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1261851237431906307)](https://discord.com/users/819036262945783808)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1261851237431906307)](https://discord.com/users/1261851237431906307)
 
 ### My GitHub
 
