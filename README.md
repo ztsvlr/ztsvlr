@@ -20,10 +20,10 @@ Hi! I'm zts, a Brazilian student currently at 21 years old, you can take a look 
 
  ### Discord presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/819036262945783808)](https://discord.com/users/819036262945783808)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1261851237431906307)](https://discord.com/users/819036262945783808)
 
 ### My GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndzin&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztsvlr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ndzin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ztsvlr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
