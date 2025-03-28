@@ -1,10 +1,18 @@
 ### About me
 
-Hi! I'm zts, a Brazilian student currently at 21 years old, you can take a look at my skills down below.
+My name is zts, 21y.
+
+### What am I doing now?
+
+<img src="https://lanyard.cnrad.dev/api/1261851237431906307?hideDiscrim=true&bg=000000" />
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java)](https://skillicons.dev)
+
+### Currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=cs,rust)](https://skillicons.dev)
 
 ### Tools and Frameworks
 
@@ -16,7 +24,7 @@ Hi! I'm zts, a Brazilian student currently at 21 years old, you can take a look 
 
 ### Contact me
 
- <a href="https://discord.com/users/ndzinvlr#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://www.github.com/ndzin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://discord.com/users/ndzinvlr#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a> <a href="https://x.com/_zetsuvlr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 ### My GitHub
 
